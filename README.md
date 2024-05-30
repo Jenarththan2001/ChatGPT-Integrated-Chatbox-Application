@@ -50,5 +50,4 @@ In the repository, you will find two folders for the different themes:
 ## Project URL
 Demo URL: https://
 
-## License
-This project is licensed under the MIT License.
+
