@@ -44,10 +44,13 @@ In the repository, you will find two folders for the different themes:
 3. Interact with the chatbox by sending messages.
 
 ## Screenshots
-- Screenshot 1: Light Theme
-- Screenshot 2: Dark Theme
+- Screenshot 1: Dark Theme 1
+- Screenshot 2: Dark Theme 2
+- Screenshot 3: Light Theme 1
+- Screenshot 4: Light Theme 2
 
-## Project URL
-Demo URL: https://
+## Demo Video
+-Demo Dark Theme 
+-Demo Light Theme
 
 
