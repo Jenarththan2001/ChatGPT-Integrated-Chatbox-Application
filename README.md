@@ -50,7 +50,7 @@ In the repository, you will find two folders for the different themes:
 - Screenshot 4: Light Theme 2
 
 ## Demo Video
--Demo Dark Theme 
--Demo Light Theme
+- Demo Dark Theme 
+- Demo Light Theme
 
 
