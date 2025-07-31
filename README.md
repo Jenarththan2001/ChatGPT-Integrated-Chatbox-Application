@@ -1,5 +1,7 @@
 # ChatGPT-Integrated Chatbox Application
 
+[![Watch the demo](demo_thumbnail.png)](https://www.youtube.com/watch?v=qoWz_LGJsEc)
+
 ## Description
 Developed a Windows Forms application using C# and Telerik UI that integrates with OpenAI's ChatGPT API to create an interactive chatbox. 
 The application includes the following features:
